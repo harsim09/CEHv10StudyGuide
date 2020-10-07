@@ -52,7 +52,7 @@ SYN -> SYN-ACK -> ACK
 - **Operating System Flaws** - flaws specific to each OS
 - **Default passwords** - leaving default passwords that come with system/application
 
-<u>Exam tip</u>
+### <u>Exam tip</u>
 
 - This business impact analysis (BIA) included measurements of the maximum tolerable downtime (MTD), which provided a means to prioritize the recovery of assets should the worst occur. ALE (annualized loss expectancy) turned out to be the product of the ARO (annual rate of occurrence) and the SLE (single loss expectancy).
 
