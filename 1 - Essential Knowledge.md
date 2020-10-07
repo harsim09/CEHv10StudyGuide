@@ -58,6 +58,26 @@ SYN -> SYN-ACK -> ACK
 
 - EXAM TIP ALE = SLE × ARO. Know it. Trust me
 
+- Confidentiality, addressing the secrecy and privacy of information, refers to the measures taken both to prevent disclosure of information or data to unauthorize dindividuals or systems and to ensure the proper disclosure of information to those who are authorized to receive it.
+
+- Integrity refers to the methods and actions taken to protect the information from unauthorized alteration or revision—whether the data is at rest or in transit. In other words, integrity measures ensure the data sent from the sender arrives at the recipient with no alteration.
+
+- Availability is probably the simplest, easiest-tounderstand segment of the security triad, yet it should not be overlooked. It refers to the communications systems and data being ready for use when legitimate users need them. Many methods are used for availability, depending on whether the discussion is about a system, a network resource, or the data itself, but they all attempt to ensure one thing—when the system or data is needed, it can be accessed by the appropriate personnel. Attacks against availability almost always fall into the “denial-of-service” realm.
+
+Target of evaluation (TOE) What is being tested • Security target (ST) The documentation describing the TOE and security requirements • Protection profile (PP) A set of security
+requirements specifically for the type of product being tested.
+
+Access Control Policy This identifies the resources that need protection and the rules in place to control access to those resources. 
+
+• Information Security Policy This identifies to employees what company systems may be used for, what they cannot be used for, and what the consequences are for breaking the rules. Generally employees are required to sign a copy before accessing resources. Versions of this policy are also known as an Acceptable Use Policy.
+• Information Protection Policy This defines information sensitivity levels and who has access to those levels. It also addresses how data is stored, transmitted, and destroyed.
+• Password Policy This defines everything imaginable about passwords within the organization, including length, complexity, maximum and minimum age, and reuse.
+• E-mail Policy Sometimes also called the E-mail Security Policy, this addresses the proper use of the company e-mail system.
+• Information Audit Policy This defines the framework for auditing security within the organization. When, where, how, how often, and sometimes even who conducts information
+security audits are described here.
+
+
+
 ### <u>Vulnerability Management Tools</u>
 
 - Nessus
